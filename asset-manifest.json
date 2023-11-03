@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WAGALAG/static/css/main.dcc9cede.css",
+    "main.js": "/WAGALAG/static/js/main.b4b1d1a2.js",
+    "static/media/Big-Dog.png": "/WAGALAG/static/media/Big-Dog.88d52bce470d78d4cb97.png",
+    "static/media/of (3).png": "/WAGALAG/static/media/of (3).0d0043539fb549ae7a3c.png",
+    "static/media/Banner (3).png": "/WAGALAG/static/media/Banner (3).4c80c2696be9cea848a5.png",
+    "static/media/of (2).png": "/WAGALAG/static/media/of (2).25f78868a6549ca21972.png",
+    "static/media/Banner.png": "/WAGALAG/static/media/Banner.e4d44a0d34a07da283de.png",
+    "static/media/Banner (2).png": "/WAGALAG/static/media/Banner (2).9f71dc69278ff4b1f4e8.png",
+    "static/media/of (1).png": "/WAGALAG/static/media/of (1).526c74be21e74e5af47b.png",
+    "static/media/img_group_teal_800.png": "/WAGALAG/static/media/img_group_teal_800.0acb448d8275a6c3e926.png",
+    "index.html": "/WAGALAG/index.html",
+    "main.dcc9cede.css.map": "/WAGALAG/static/css/main.dcc9cede.css.map",
+    "main.b4b1d1a2.js.map": "/WAGALAG/static/js/main.b4b1d1a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc9cede.css",
+    "static/js/main.b4b1d1a2.js"
+  ]
+}
