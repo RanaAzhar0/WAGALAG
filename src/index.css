@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-hover:hover {
+    transition: transform 0.3s ease-in-out 0.2s;
+    transform: scale(0.9);}
+
+    .Welcome {
+      font-family: 'DinoTypeLineClean';
+      
+    }
+    
+.BigDog{
+  background-image: url('../public/images/Big-Dog.png');
+  background-size: 100% 100%;
+}
+/* .DogSwim{
+  background-image: url('../public/images/dog-swim.png');
+  
+}
+.Dogs{
+  background-image: url('../public/images/dogs.png');
+  
+} */
+.bg{
+  background-image: url('../public/images/img_group_teal_800.png');
+  background-size: 100% 100%;
+}
+
+.imgthree{
+  background-image: url('../public/images/of\ \(1\).png');
+  background-size: 100% 100%;
+}
+.imgtwo{
+  background-image: url('../public/images/of\ \(2\).png');
+  background-size: 100% 100%;
+}
+.imgone{
+  background-image: url('../public/images/of\ \(3\).png');
+  background-size: 100% 100%;
+}
+
+
+.imgtwo2{
+  background-image: url('../public/images/Banner\ \(2\).png');
+  background-size: 100% 100%;
+}
+.imgthree3{
+  background-image: url('../public/images/Banner\ \(3\).png');
+  background-size: 100% 100%;
+}
+.imgone1{
+  background-image: url('../public/images/Banner.png');
+  background-size: 100% 100%;
+}
